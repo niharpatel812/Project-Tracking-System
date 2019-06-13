@@ -3,11 +3,11 @@
 </manav>
 
 <nihar>
-hi i am nihar i am first time on gethub
+
 </nihar>
 
 <nikul>
-
+i am nick
 </nikul>
 
 <anil>
