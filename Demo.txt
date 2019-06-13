@@ -3,7 +3,7 @@
 </manav>
 
 <nihar>
-hi i am nihar i am first time on gethub
+
 </nihar>
 
 <nikul>
@@ -15,5 +15,5 @@ hi i am nihar i am first time on gethub
 </anil>
 
 <Ashish>
-
+Hooo manav i do not understand what can be do next 
 </ashish>
