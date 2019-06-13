@@ -3,7 +3,7 @@ HEllo
 </manav>
 
 <nihar>
-hi by hi by
+
 </nihar>
 
 <nikul>
@@ -11,7 +11,7 @@ i am nick
 </nikul>
 
 <anil>
-
+Hello Friends...............
 </anil>
 
 <Ashish>
